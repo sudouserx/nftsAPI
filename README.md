@@ -1,4 +1,3 @@
-```markdown
 # NFTs API
 
 This repository contains the codebase for an application that provides APIs for authentication and managing NFTs (Non-Fungible Tokens).
